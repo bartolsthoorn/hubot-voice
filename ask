@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "cece: $1" | bin/hubot --name cece -a shell
