@@ -1,6 +1,6 @@
 # Voice Controlled Hubot
 
-*Notice* Currently in _alpha_ state, wait a few more days or start hacking along
+**Notice** Currently in _alpha_ state, wait a few more days or start hacking along
 
 This repository will help you extend your [Hubot](http://hubot.github.com) with speech capabilities.
 
@@ -13,7 +13,7 @@ Make sure you have to following things installed:
 - Node.js
 - Ruby
 
-Copy all the files in this repo in your existing Hubot folder or create one like so:
+Copy all the files in this repo in your existing Hubot folder or create one like so, I named mine Cece:
 ```bash
 bin/hubot --create Cece
 ```
@@ -34,7 +34,7 @@ cd /to-your-hubot-location
 ruby listen.rb
 ```
 
-*Bonus* You can set the voice to female by going `System Preferences -> Accessibility -> "Open VoiceOver Utility"`
+**Bonus** You can set the voice to female by going `System Preferences -> Accessibility -> "Open VoiceOver Utility"`
 Then move down to `Speech` and choose `Vicki` in the Voice table.
 
 ## Testing
